@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UsingContentProvider</string>
+    <string name="last_records">Last records</string>
+    <string name="all_records">All records</string>
+    <string name="today_records">Today Records</string>
+</resources>
